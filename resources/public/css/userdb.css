@@ -1,0 +1,61 @@
+h1 {
+  color: blue;
+  text-align: center;
+  margin: 0;
+}
+h3 {
+  margin: 0 0 lem;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  background: #a7a09a;
+}
+
+#container {
+  width: 750px;
+  margin: 0 auto;
+  background: #99c;
+}
+#header {
+  padding: 5px 10px;
+  background: #ddd;
+}
+#nav {
+  padding: 5px 10px;
+  background: #c99;
+}
+#nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#nav li {
+  margin: 0;
+  padding: 0;
+  display:inline;
+}
+#main {
+  float: top;
+  width: 90%;
+  padding: 5px;
+}
+#sidebar {
+  float: bottom;
+  width: 45%;
+  padding: 5px;
+  background: #c99;
+}
+#formpos {
+  border: 1px solid #ccc;
+}
+
+#formrow {
+  display: inline-block;
+}
+#footer {
+  clear: both;
+  padding: 5px 10px;
+  background: #cc9;
+}
